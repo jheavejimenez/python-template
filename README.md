@@ -5,7 +5,7 @@ Ruff for linting, GitHub Actions for continuous integration, and Pre-Commit Hook
 
 ## Installation
 To use this workflow, you must have Python and Git installed on your system.
-You use this a template, or you can then clone this repository and install the necessary dependencies by running
+You use this as a template, or you can then clone this repository and install the necessary dependencies by running
 
 ```bash
 git clone https://github.com/jheavejimenez/python-template.git
